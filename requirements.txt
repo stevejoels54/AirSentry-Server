@@ -1,0 +1,10 @@
+asgiref==3.6.0
+Django==4.1.4
+django-crontab==0.7.1
+django-filter==22.1
+djangorestframework==3.14.0
+importlib-metadata==5.2.0
+Markdown==3.4.1
+pytz==2022.7
+sqlparse==0.4.3
+zipp==3.11.0
